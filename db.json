@@ -1,23 +1,30 @@
 {
-		"name": "Food",
-		"imgUrl": "lien url",
+		
 		"ingredients": [
 			{
+				"name" : "Kebab",
+				"cost": 5
 				"ingredient1" : "test",
 				"ingredient2" : "test",
 				"ingredient3" : "test"
 			},
 			{
+				"name" : "Pizza",
+				"cost": 10
 				"ingredient1" : "test",
 				"ingredient2" : "test",
 				"ingredient3" : "test"
 			},
 			{
+				"name" : "pates bolo",
+				"cost": 4
 				"ingredient1" : "test",
 				"ingredient2" : "test",
 				"ingredient3" : "test"
 			},
 			{
+				"name" : "Ramen",
+				"cost": 11
 				"ingredient1" : "test",
 				"ingredient2" : "test",
 				"ingredient3" : "test"
