@@ -1,47 +1,40 @@
-[
-  {
-    "name": "Food",
-    "imgUrl": "lien url",
-    "ingredients": {
-      "ingredient1": "test",
-      "ingredient2": "test",
-      "ingredient3": "test"
-    }
-  },
-  {
-    "name": "Food",
-    "imgUrl": "lien url",
-    "ingredients": {
-      "ingredient1": "test",
-      "ingredient2": "test",
-      "ingredient3": "test"
-    }
-  },
-  {
-    "name": "Food",
-    "imgUrl": "lien url",
-    "ingredients": {
-      "ingredient1": "test",
-      "ingredient2": "test",
-      "ingredient3": "test"
-    }
-  },
-  {
-    "name": "Food",
-    "imgUrl": "lien url",
-    "ingredients": {
-      "ingredient1": "test",
-      "ingredient2": "test",
-      "ingredient3": "test"
-    }
-  },
-  {
-    "name": "Food",
-    "imgUrl": "lien url",
-    "ingredients": {
-      "ingredient1": "test",
-      "ingredient2": "test",
-      "ingredient3": "test"
-    }
-  }
+[{
+		"name": "Food",
+		"imgUrl": "lien url",
+		"ingredients": [{
+			"ingredient1": "test",
+			"ingredient2": "test",
+			"ingredient3": "test"
+		}]
+	},
+	{
+		"name": "Food",
+		"imgUrl": "lien url",
+		"ingredients": [{
+			"ingredient1": "test",
+			"ingredient2": "test",
+			"ingredient3": "test"
+		}]
+	},
+	{
+		"name": "Food",
+		"imgUrl": "lien url",
+		"ingredients": [{
+			"ingredient1": "test",
+			"ingredient2": "test",
+			"ingredient3": "test"
+		}]
+	},
+	{
+		"name": "Food",
+		"imgUrl": "lien url",
+		"ingredients": [{
+			"ingredient1": "test",
+			"ingredient2": "test",
+			"ingredient3": "test"
+		}]
+
+
+
+	}
 ]
