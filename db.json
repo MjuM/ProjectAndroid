@@ -4,30 +4,30 @@
 			{
 				"name" : "Kebab",
 				"cost": 5,
-				"ingredient1" : "test",
-				"ingredient2" : "test",
-				"ingredient3" : "test"
+				"ingredient1" : "Volaille",
+				"ingredient2" : "Oignon",
+				"ingredient3" : "Sauce Algerienne"
 			},
 			{
 				"name" : "Pizza",
 				"cost": 10,
-				"ingredient1" : "test",
-				"ingredient2" : "test",
-				"ingredient3" : "test"
+				"ingredient1" : "Chorizzo",
+				"ingredient2" : "Tomate",
+				"ingredient3" : "Fromages"
 			},
 			{
 				"name" : "pates bolo",
 				"cost": 4,
-				"ingredient1" : "test",
-				"ingredient2" : "test",
-				"ingredient3" : "test"
+				"ingredient1" : "Pate",
+				"ingredient2" : "Sauce Bolognaise",
+				"ingredient3" : "Parmesan"
 			},
 			{
 				"name" : "Ramen",
 				"cost": 11,
-				"ingredient1" : "test",
-				"ingredient2" : "test",
-				"ingredient3" : "test"
+				"ingredient1" : "Nouilles",
+				"ingredient2" : "Oeufs",
+				"ingredient3" : "Porc"
 			}
 		]
 }
