@@ -9,6 +9,13 @@
 				"ingredient3" : "Sauce Algerienne"
 			},
 			{
+				"name" : "Crêpe sucré",
+				"cost": 5,
+				"ingredient1" : "Nutella",
+				"ingredient2" : "Kinder Bueno",
+				"ingredient3" : "Snickers"
+			},
+			{
 				"name" : "Pizza",
 				"cost": 10,
 				"ingredient1" : "Chorizzo",
