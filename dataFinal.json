@@ -40,6 +40,10 @@
 				"ingredient1" : "Nouilles",
 				"ingredient2" : "Oeufs",
 				"ingredient3" : "Porc"
+			},
+			{
+				"name" : "Random",
+				"id": 6
 			}
 		]
 }
