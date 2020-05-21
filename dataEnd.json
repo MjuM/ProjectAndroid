@@ -4,7 +4,7 @@
 			{
 				"name" : "Kebab",
 				"cost": 5,
-				"id": 1;
+				"id": 1,
 				"ingredient1" : "Volaille",
 				"ingredient2" : "Oignon",
 				"ingredient3" : "Sauce Algerienne"
