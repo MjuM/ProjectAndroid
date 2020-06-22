@@ -1,0 +1,46 @@
+{
+		
+		"Plants": [
+			{
+				"name" : "Le Kentia",
+				"id": 1,
+        "TemperatureMin":10,
+				"TempératureMax" : 24,
+				"Fréquence" : "1 à 3 fois par semaine",
+				"Origine" : "L’Ile Lord Howe ( Pacifique )"
+			},
+			{
+			  "name" : "Le Lierre",
+				"id": 2,
+        "TemperatureMin":5,
+				"TempératureMax" : 18,
+				"Fréquence" : "1 fois par semaine",
+				"Origine" : "Sous-bois d'Europe"
+			},
+			{
+		  "name" : "Echinocactus",
+				"id": 3,
+        "TemperatureMin":5,
+				"TempératureMax" : 25,
+				"Fréquence" : "1 fois par mois",
+				"Origine" : "Mexique"
+			},
+			{
+			"name" : "Le Piléa",
+				"id": 4,
+			   "TemperatureMin":12,
+				"TempératureMax" : 22,
+				"Fréquence" : "2 fois par semaine",
+				"Origine" : "Porto Rico"
+			},
+			{
+			"name" : "Zamioculcas",
+				"id": 5,
+				"TemperatureMin":10,
+				"TempératureMax" : 22,
+				"Fréquence" : "3 fois par semaine",
+				"Origine" : "Tanzanie"
+			}
+		
+		]
+}
