@@ -4,42 +4,42 @@
 			{
 				"name" : "Le Kentia",
 				"id": 1,
-        "TemperatureMin":10,
-				"TempératureMax" : 24,
-				"Fréquence" : "1 à 3 fois par semaine",
-				"Origine" : "L’Ile Lord Howe ( Pacifique )"
+        			"temperatureMin":10,
+				"temperatureMax" : 24,
+				"frequence" : "1 à 3 fois par semaine",
+				"origine" : "L’Ile Lord Howe ( Pacifique )"
 			},
 			{
-			  "name" : "Le Lierre",
+			 	 "name" : "Le Lierre",
 				"id": 2,
-        "TemperatureMin":5,
-				"TempératureMax" : 18,
-				"Fréquence" : "1 fois par semaine",
+       				 "temperatureMin":5,
+				"temperatureMax" : 18,
+				"frequence" : "1 fois par semaine",
 				"Origine" : "Sous-bois d'Europe"
 			},
 			{
-		  "name" : "Echinocactus",
+				"name" : "Echinocactus",
 				"id": 3,
-        "TemperatureMin":5,
-				"TempératureMax" : 25,
-				"Fréquence" : "1 fois par mois",
-				"Origine" : "Mexique"
+        			"temperatureMin":5,
+				"temperatureMax" : 25,
+				"frequence" : "1 fois par mois",
+				"origine" : "Mexique"
 			},
 			{
-			"name" : "Le Piléa",
+				"name" : "Le Piléa",
 				"id": 4,
-			   "TemperatureMin":12,
-				"TempératureMax" : 22,
-				"Fréquence" : "2 fois par semaine",
-				"Origine" : "Porto Rico"
+			  	 "temperatureMin":12,
+				"temperatureMax" : 22,
+				"frequence" : "2 fois par semaine",
+				"origine" : "Porto Rico"
 			},
 			{
-			"name" : "Zamioculcas",
+				"name" : "Zamioculcas",
 				"id": 5,
-				"TemperatureMin":10,
-				"TempératureMax" : 22,
-				"Fréquence" : "3 fois par semaine",
-				"Origine" : "Tanzanie"
+				"temperatureMin":10,
+				"temperatureMax" : 22,
+				"frequence" : "3 fois par semaine",
+				"origine" : "Tanzanie"
 			}
 		
 		]
